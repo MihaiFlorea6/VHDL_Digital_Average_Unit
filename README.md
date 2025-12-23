@@ -8,9 +8,9 @@ The system's core function is to implement a configurable filter, allowing the u
 
 # Skills
 This project demonstrates practical skills in:
--> Digital Filtering: Implementation of the Moving Average algorithm directly in hardware4.
--> Custom Control Logic: Design of a dedicated Data Generator that produces input sequences in various operational modes (e.g., Test Mode, Random/Pseudo-Random Sequences) using a 3-bit Control input.
--> Hardware Description: Utilization of fundamental building blocks (e.g., 8-bit Sumator, LFSR, Counter) in VHDL for efficient RTL design.
+## -> Digital Filtering: Implementation of the Moving Average algorithm directly in hardware4.
+## -> Custom Control Logic: Design of a dedicated Data Generator that produces input sequences in various operational modes (e.g., Test Mode, Random/Pseudo-Random Sequences) using a 3-bit Control input.
+## -> Hardware Description: Utilization of fundamental building blocks (e.g., 8-bit Sumator, LFSR, Counter) in VHDL for efficient RTL design.
 
 # Key Technologies
 VHDL, Digital Design, Hardware Synthesis, Moving Average Filter, LFSR.
